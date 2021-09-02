@@ -1,0 +1,17 @@
+{
+  "name": "service-rest",
+  "version": "1.0.0",
+  "description": "Service REST en Java",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurie Bilodeau-Hamelin",
+  "license": "ISC",
+  "dependencies": {
+    "module-name": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
